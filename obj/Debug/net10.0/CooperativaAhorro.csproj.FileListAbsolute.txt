@@ -1,0 +1,15 @@
+/workspaces/CooperativaAhorro/bin/Debug/net10.0/CooperativaAhorro
+/workspaces/CooperativaAhorro/bin/Debug/net10.0/CooperativaAhorro.deps.json
+/workspaces/CooperativaAhorro/bin/Debug/net10.0/CooperativaAhorro.runtimeconfig.json
+/workspaces/CooperativaAhorro/bin/Debug/net10.0/CooperativaAhorro.dll
+/workspaces/CooperativaAhorro/bin/Debug/net10.0/CooperativaAhorro.pdb
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.AssemblyInfoInputs.cache
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.AssemblyInfo.cs
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.csproj.CoreCompileInputs.cache
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.sourcelink.json
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.dll
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/refint/CooperativaAhorro.dll
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.pdb
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/CooperativaAhorro.genruntimeconfig.cache
+/workspaces/CooperativaAhorro/obj/Debug/net10.0/ref/CooperativaAhorro.dll
