@@ -64,6 +64,22 @@ Aplicación de consola desarrollada en C# diseñada para modernizar dos procesos
 
 ### Ejercicio 2: Simulador de Préstamo
 * **Caso exitoso (Cálculo de préstamo y tabla de amortización):**
-  *(Inserta aquí tu captura de pantalla)*
+  *(Inserta aquí tu captura de pantalla)*<img width="655" height="216" alt="Screenshot from 2026-11-03 15-46-31" src="https://github.com/user-attachments/assets/f3144e79-a864-4c1f-a21d-baf5994a2f01" />  <img width="651" height="488" alt="Screenshot from 2026-11-03 15-54-53" src="https://github.com/user-attachments/assets/a2f6e862-4f8d-4ee6-93e3-07d2f13d6194" />
+<img width="661" height="398" alt="Screenshot from 2026-11-03 15-54-27" src="https://github.com/user-attachments/assets/f8420b6a-3aa2-4591-8868-7123e876d0c9" />
+<img width="661" height="398" alt="Screenshot from 2026-11-03 15-53-56" src="https://github.com/user-attachments/assets/19e975f3-3d9b-4ab1-9510-a5ff2b34f681" />
+<img width="661" height="398" alt="Screenshot from 2026-11-03 15-53-19" src="https://github.com/user-attachments/assets/2c2c43d1-fc4b-47b5-9170-c2e4f575c8cf" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-52-58" src="https://github.com/user-attachments/assets/c86e59f0-e4b4-4137-b2a5-2209a094bbfc" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-51-50" src="https://github.com/user-attachments/assets/552c9b34-0aa6-489c-be2a-3aef84ab73ae" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-51-04" src="https://github.com/user-attachments/assets/976d17cb-6b0a-4a9b-a533-5d0f137982ce" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-50-41" src="https://github.com/user-attachments/assets/889aa370-03ea-49de-a541-55d096a04882" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-49-57" src="https://github.com/user-attachments/assets/296b8c28-6265-414e-9812-525f1d29c366" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-49-23" src="https://github.com/user-attachments/assets/5ffbca6a-6ee5-49c9-b29c-4493700d89d8" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-49-10" src="https://github.com/user-attachments/assets/b94c3edb-0834-4b83-af85-e06a043b6a88" />
+<img width="648" height="201" alt="Screenshot from 2026-11-03 15-48-41" src="https://github.com/user-attachments/assets/8923c196-0cc0-4e9c-a95d-328312f3c265" />
+<img width="655" height="216" alt="Screenshot from 2026-11-03 15-48-02" src="https://github.com/user-attachments/assets/a73b98fc-7d95-4cd3-871f-3e665cd7d132" />
+<img width="655" height="216" alt="Screenshot from 2026-11-03 15-47-35" src="https://github.com/user-attachments/assets/2b1bc1c5-67e1-49a1-a871-af4990e054d8" />
+<img width="655" height="216" alt="Screenshot from 2026-11-03 15-47-15" src="https://github.com/user-attachments/assets/d3b04329-bf03-4f52-914c-a98fad3ab7fa" />
+
+
 * **Caso de error o validación (Monto/plazo fuera de rango o categoría inválida):**
   *(Inserta aquí tu captura de pantalla)*
