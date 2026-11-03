@@ -1,0 +1,5 @@
+/workspaces/CooperativaAhorro/bin/Release/net10.0/publish/CooperativaAhorro
+/workspaces/CooperativaAhorro/bin/Release/net10.0/publish/CooperativaAhorro.dll
+/workspaces/CooperativaAhorro/bin/Release/net10.0/publish/CooperativaAhorro.deps.json
+/workspaces/CooperativaAhorro/bin/Release/net10.0/publish/CooperativaAhorro.runtimeconfig.json
+/workspaces/CooperativaAhorro/bin/Release/net10.0/publish/CooperativaAhorro.pdb

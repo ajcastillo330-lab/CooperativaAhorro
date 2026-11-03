@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string opcionMenuPrincipal = "";
+        string opcionMenuPrincipal = ""; 
 
         // Menú Principal con do-while
         do
