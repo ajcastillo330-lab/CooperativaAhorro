@@ -1,8 +1,8 @@
 # Proyecto: Cooperativa "Ahorro Seguro"
 
 ## 1. Datos de los Autores
-* **Nombre completo:** 
-* **Matrícula:** 
+* **Nombre completo:Andy Pereyra Castillo** 
+* **Matrícula:10-EISN-2-041** 
 * **Asignatura:** Algoritmos Computacionales
 * **Profesor:** Gamalier Reyes del Carmen
 * **Institución:** Universidad Dominicana O&M
